@@ -1,0 +1,15 @@
+Fancybox.bind('[data-fancybox="gallery"]', {
+    // autoFocus: true,
+    // animated: true,
+    // dragToClose:true,
+    // hideScrollbar: true,
+    // // Escape: "close",
+    // // Delete: "close",
+    // // Backspace: "close",
+    // // PageUp: "next",
+    // // PageDown: "prev",
+    // // ArrowUp: "prev",
+    // // ArrowDown: "next",
+    // // ArrowRight: "next",
+    // // ArrowLeft: "prev",
+  });
